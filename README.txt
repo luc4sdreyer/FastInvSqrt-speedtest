@@ -6,4 +6,4 @@ A quick comparison between three functions that calculate the inverse square roo
 
 Code compiled on WindowsXP with g++ (GCC) 3.4.2
 
-Details: hthttps://werunos.blogspot.com/2012/09/i-came-across-very-interesting-post.html
+Details: https://werunos.blogspot.com/2012/09/i-came-across-very-interesting-post.html
